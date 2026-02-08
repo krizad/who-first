@@ -299,6 +299,7 @@ export default function App() {
     return (
       <div className="min-h-screen flex items-center justify-center bg-gray-950 px-4">
         <div className="w-full max-w-sm space-y-6 text-center">
+          <img src="/src/logo.png" alt="WhoFirst Logo" className="w-24 h-24 mx-auto" />
           <h1 className="text-5xl font-extrabold tracking-tight bg-gradient-to-r from-red-500 to-orange-400 bg-clip-text text-transparent">
             WhoFirst
           </h1>
